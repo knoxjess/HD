@@ -35,6 +35,7 @@ To run this website locally, follow these steps:
 
 3. Open `index.html` in your preferred web browser.
 
+![Screenshot 2023-10-09 at 5 15 50 PM](https://github.com/knoxjess/HD/assets/110634800/31ff15f8-6419-4692-8122-2e3c6ab5384a)
 
 ## License
 
